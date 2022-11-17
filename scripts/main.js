@@ -1,0 +1,1 @@
+console.log('MyInsights running, main.js connected, good way!');
